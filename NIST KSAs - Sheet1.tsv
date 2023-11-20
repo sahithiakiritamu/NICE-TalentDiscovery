@@ -1,0 +1,943 @@
+Role	KSA ID	Knowledge
+SP-RSK-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-RSK-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-RSK-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-RSK-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-RSK-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-RSK-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-RSK-001	K0013	Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+SP-RSK-001	K0019	Knowledge of cryptography and cryptographic key management concepts
+SP-RSK-001	K0027	Knowledge of organization's enterprise information security architecture.
+SP-RSK-001	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-RSK-001	K0037	Knowledge of Security Assessment and Authorization process.
+SP-RSK-001	K0038	Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data.
+SP-RSK-001	K0040	Knowledge of vulnerability information dissemination sources (e.g., alerts, advisories, errata, and bulletins).
+SP-RSK-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-001	K0048	Knowledge of Risk Management Framework (RMF) requirements.
+SP-RSK-001	K0049	Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption).
+SP-RSK-001	K0054	Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities.
+SP-RSK-001	K0059	Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+SP-RSK-001	K0070	Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+SP-RSK-001	K0084	Knowledge of structured analysis principles and methods.
+SP-RSK-001	K0089	Knowledge of systems diagnostic tools and fault identification techniques.
+SP-RSK-001	K0101	Knowledge of the organization’s enterprise information technology (IT) goals and objectives.
+SP-RSK-001	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-RSK-001	K0146	Knowledge of the organization's core business/mission processes.
+SP-RSK-001	K0168	Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures.
+SP-RSK-001	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-RSK-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-RSK-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-RSK-001	K0199	Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+SP-RSK-001	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-RSK-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-RSK-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-RSK-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-RSK-001	K0267	Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures.
+SP-RSK-001	K0295	Knowledge of confidentiality, integrity, and availability principles.
+SP-RSK-001	K0322	Knowledge of embedded systems.
+SP-RSK-001	K0342	Knowledge of penetration testing principles, tools, and techniques.
+SP-RSK-001	K0622	Knowledge of controls related to the use, processing, storage, and transmission of data.
+SP-RSK-001	K0624	Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+SP-RSK-001	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-RSK-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-001	A0028	Ability to assess and forecast manpower requirements to meet organizational objectives.
+SP-RSK-001	A0033	Ability to develop policy, plans, and strategy in compliance with laws, regulations, policies, and standards in support of organizational cyber activities.
+SP-RSK-001	A0077	Ability to coordinate cyber operations with other organization functions or support activities.
+SP-RSK-001	A0090	Ability to identify external partners with common cyber operations interests.
+SP-RSK-001	A0094	Ability to interpret and apply laws, regulations, policies, and guidance relevant to organization cyber objectives.
+SP-RSK-001	A0111	Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives.
+SP-RSK-001	A0117	Ability to relate strategy, business, and technology in the context of organizational dynamics.
+SP-RSK-001	A0118	Ability to understand technology, management, and leadership issues related to organization processes and problem solving.
+SP-RSK-001	A0119	Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+SP-RSK-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-RSK-002	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-RSK-002	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-RSK-002	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-RSK-002	K0004	Knowledge of cybersecurity and privacy principles.
+SP-RSK-002	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-RSK-002	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-RSK-002	K0007	Knowledge of authentication, authorization, and access control methods.
+SP-RSK-002	K0008	Knowledge of applicable business processes and operations of customer organizations.
+SP-RSK-002	K0009	Knowledge of application vulnerabilities.
+SP-RSK-002	K0010	Knowledge of communication methods, principles, and concepts that support the network infrastructure.
+SP-RSK-002	K0011	Knowledge of capabilities and applications of network equipment including routers, switches, bridges, servers, transmission media, and related hardware.
+SP-RSK-002	K0013	Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+SP-RSK-002	K0018	Knowledge of encryption algorithms
+SP-RSK-002	K0019	Knowledge of cryptography and cryptographic key management concepts
+SP-RSK-002	K0018	Knowledge of encryption algorithms
+SP-RSK-002	K0021	Knowledge of data backup and recovery.
+SP-RSK-002	K0024	Knowledge of database systems.
+SP-RSK-002	K0026	Knowledge of business continuity and disaster recovery continuity of operations plans.
+SP-RSK-002	K0027	Knowledge of organization's enterprise information security architecture.
+SP-RSK-002	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-RSK-002	K0029	Knowledge of organization's Local and Wide Area Network connections.
+SP-RSK-002	K0037	Knowledge of Security Assessment and Authorization process.
+SP-RSK-002	K0038	Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data.
+SP-RSK-002	K0040	Knowledge of vulnerability information dissemination sources (e.g., alerts, advisories, errata, and bulletins).
+SP-RSK-002	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-002	K0048	Knowledge of Risk Management Framework (RMF) requirements.
+SP-RSK-002	K0049	Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption).
+SP-RSK-002	K0054	Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities.
+SP-RSK-002	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-RSK-002	K0059	Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+SP-RSK-002	K0070	Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+SP-RSK-002	K0084	Knowledge of structured analysis principles and methods.
+SP-RSK-002	K0089	Knowledge of systems diagnostic tools and fault identification techniques.
+SP-RSK-002	K0098	Knowledge of the cyber defense Service Provider reporting structure and processes within one’s own organization.
+SP-RSK-002	K0100	Knowledge of the enterprise information technology (IT) architecture.
+SP-RSK-002	K0101	Knowledge of the organization’s enterprise information technology (IT) goals and objectives.
+SP-RSK-002	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-RSK-002	K0146	Knowledge of the organization's core business/mission processes.
+SP-RSK-002	K0168	Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures.
+SP-RSK-002	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-RSK-002	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-RSK-002	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-RSK-002	K0199	Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+SP-RSK-002	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-RSK-002	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-RSK-002	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-RSK-002	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-RSK-002	K0267	Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures.
+SP-RSK-002	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-RSK-002	K0322	Knowledge of embedded systems.
+SP-RSK-002	K0342	Knowledge of penetration testing principles, tools, and techniques.
+SP-RSK-002	K0622	Knowledge of controls related to the use, processing, storage, and transmission of data.
+SP-RSK-002	K0624	Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+SP-RSK-002	S0001	Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+SP-RSK-002	S0006	Skill in applying confidentiality, integrity, and availability principles.
+SP-RSK-002	S0027	Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+SP-RSK-002	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-RSK-002	S0038	Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.
+SP-RSK-002	S0073	Skill in using virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix XenDesktop/Server, Amazon Elastic Compute Cloud, etc.).
+SP-RSK-002	S0078	Skill in recognizing and categorizing types of vulnerabilities and associated attacks.
+SP-RSK-002	S0097	Skill in applying security controls.
+SP-RSK-002	S0100	Skill in utilizing or developing learning activities (e.g., scenarios, instructional games, interactive exercises).
+SP-RSK-002	S0110	Skill in identifying Test & Evaluation infrastructure (people, ranges, tools, instrumentation) requirements.
+SP-RSK-002	S0111	Skill in interfacing with customers.
+SP-RSK-002	S0112	Skill in managing test assets, test resources, and test personnel to ensure effective completion of test events.
+SP-RSK-002	S0115	Skill in preparing Test & Evaluation reports.
+SP-RSK-002	S0120	Skill in reviewing logs to identify evidence of past intrusions.
+SP-RSK-002	S0124	Skill in troubleshooting and diagnosing cyber defense infrastructure anomalies and work through resolution.
+SP-RSK-002	S0128	Skill in using manpower and personnel IT systems.
+SP-RSK-002	S0134	Skill in conducting reviews of systems.
+SP-RSK-002	S0135	Skill in secure test plan design (e. g. unit, integration, system, acceptance).
+SP-RSK-002	S0136	Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-RSK-002	S0137	Skill in conducting application vulnerability assessments.
+SP-RSK-002	S0138	Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).
+SP-RSK-002	S0141	Skill in assessing security systems designs.
+SP-RSK-002	S0145	Skill in integrating and applying policies that meet system security objectives.
+SP-RSK-002	S0147	Skill in assessing security controls based on cybersecurity principles and tenets. (e.g., CIS CSC, NIST SP 800-53, Cybersecurity Framework, etc.).
+SP-RSK-002	S0171	Skill in performing impact/risk assessments.
+SP-RSK-002	S0172	Skill in applying secure coding techniques.
+SP-RSK-002	S0173	Skill in using security event correlation tools.
+SP-RSK-002	S0174	Skill in using code analysis tools.
+SP-RSK-002	S0175	Skill in performing root cause analysis.
+SP-RSK-002	S0176	Skill in administrative planning activities, to include preparation of functional and specific support plans, preparing and managing correspondence, and staffing procedures.
+SP-RSK-002	S0177	Skill in analyzing a target's communication networks.
+SP-RSK-002	S0184	Skill in analyzing traffic to identify network devices.
+SP-RSK-002	S0232	Skill in identifying intelligence gaps and limitations.
+SP-RSK-002	S0233	Skill in identifying language issues that may have an impact on organization objectives.
+SP-RSK-002	S0234	Skill in identifying leads for target development.
+SP-RSK-002	S0235	Skill in identifying non-target regional languages and dialects
+SP-RSK-002	S0236	Skill in identifying the devices that work at each level of protocol models.
+SP-RSK-002	S0237	Skill in identifying, locating, and tracking targets via geospatial analysis techniques
+SP-RSK-002	S0238	Skill in information prioritization as it relates to operations.
+SP-RSK-002	S0239	Skill in interpreting compiled and interpretive programming languages.
+SP-RSK-002	S0240	Skill in interpreting metadata and content as applied by collection systems.
+SP-RSK-002	S0241	Skill in interpreting traceroute results, as they apply to network analysis and reconstruction.
+SP-RSK-002	S0242	Skill in interpreting vulnerability scanner results to identify vulnerabilities.
+SP-RSK-002	S0243	Skill in knowledge management, including technical documentation techniques (e.g., Wiki page).
+SP-RSK-002	S0244	Skill in managing client relationships, including determining client needs/requirements, managing client expectations, and demonstrating commitment to delivering quality results.
+SP-RSK-002	S0248	Skill in performing target system analysis.
+SP-RSK-002	S0249	Skill in preparing and presenting briefings.
+SP-RSK-002	S0250	Skill in preparing plans and related correspondence.
+SP-RSK-002	S0251	Skill in prioritizing target language material.
+SP-RSK-002	S0252	Skill in processing collected data for follow-on analysis.
+SP-RSK-002	S0254	Skill in providing analysis to aid writing phased after action reports.
+SP-RSK-002	S0271	Skill in reviewing and editing assessment products.
+SP-RSK-002	S0273	Skill in reviewing and editing plans.
+SP-RSK-002	S0278	Skill in tailoring analysis to the necessary levels (e.g., classification and organizational).
+SP-RSK-002	S0279	Skill in target development in direct support of collection operations.
+SP-RSK-002	S0280	Skill in target network anomaly identification (e.g., intrusions, dataflow or processing, target implementation of new technologies).
+SP-RSK-002	S0281	Skill in technical writing.
+SP-RSK-002	S0296	Skill in utilizing feedback to improve processes, products, and services.
+SP-RSK-002	S0304	Skill to access information on current assets available, usage.
+SP-RSK-002	S0305	Skill to access the databases where plans/directives/guidance are maintained.
+SP-RSK-002	S0306	Skill to analyze strategic guidance for issues requiring clarification and/or additional guidance.
+SP-RSK-002	S0307	Skill to analyze target or threat sources of strength and morale.
+SP-RSK-002	S0325	Skill to develop a collection plan that clearly shows the discipline that can be used to collect the information needed.
+SP-RSK-002	S0329	Skill to evaluate requests for information to determine if response information exists.
+SP-RSK-002	S0332	Skill to extract information from available tools and applications associated with collection requirements and collection operations management.
+SP-RSK-002	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-002	S0370	Skill to use cyber defense Service Provider reporting structure and processes within one’s own organization.
+SP-RSK-002	S0374	Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations.
+SP-RSK-002	A0001	Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.
+SP-RSK-002	A0011	Ability to answer questions in a clear and concise manner.
+SP-RSK-002	A0012	Ability to ask clarifying questions.
+SP-RSK-002	A0013	Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means.
+SP-RSK-002	A0014	Ability to communicate effectively when writing.
+SP-RSK-002	A0015	Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+SP-RSK-002	A0016	Ability to facilitate small group discussions.
+SP-RSK-002	A0018	Ability to prepare and present briefings.
+SP-RSK-002	A0019	Ability to produce technical documentation.
+SP-RSK-002	A0023	Ability to design valid and reliable assessments.
+SP-RSK-002	A0026	Ability to analyze test data.
+SP-RSK-002	A0030	Ability to collect, verify, and validate test data.
+SP-RSK-002	A0035	Ability to dissect a problem and examine the interrelationships between data that may appear unrelated.
+SP-RSK-002	A0036	Ability to identify basic common coding flaws at a high level.
+SP-RSK-002	A0040	Ability to translate data and test results into evaluative conclusions.
+SP-RSK-002	A0056	Ability to ensure security practices are followed throughout the acquisition process.
+SP-RSK-002	A0069	Ability to apply collaborative skills and strategies.
+SP-RSK-002	A0070	Ability to apply critical reading/thinking skills.
+SP-RSK-002	A0082	Ability to effectively collaborate via virtual teams.
+SP-RSK-002	A0083	Ability to evaluate information for reliability, validity, and relevance.
+SP-RSK-002	A0084	Ability to evaluate, analyze, and synthesize large quantities of data (which may be fragmented and contradictory) into high quality, fused targeting/intelligence products.
+SP-RSK-002	A0085	Ability to exercise judgment when policies are not well-defined.
+SP-RSK-002	A0086	Ability to expand network access by conducting target analysis and collection to identify targets of interest.
+SP-RSK-002	A0087	Ability to focus research efforts to meet the customer’s decision-making needs.
+SP-RSK-002	A0088	Ability to function effectively in a dynamic, fast-paced environment.
+SP-RSK-002	A0089	Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts—both internal and external to the organization—to leverage analytical and technical expertise.
+SP-RSK-002	A0090	Ability to identify external partners with common cyber operations interests.
+SP-RSK-002	A0091	Ability to identify intelligence gaps.
+SP-RSK-002	A0092	Ability to identify/describe target vulnerability.
+SP-RSK-002	A0093	Ability to identify/describe techniques/methods for conducting technical exploitation of the target.
+SP-RSK-002	A0094	Ability to interpret and apply laws, regulations, policies, and guidance relevant to organization cyber objectives.
+SP-RSK-002	A0095	Ability to interpret and translate customer requirements into operational action.
+SP-RSK-002	A0096	Ability to interpret and understand complex and rapidly evolving concepts.
+SP-RSK-002	A0098	Ability to participate as a member of planning teams, coordination groups, and task forces as necessary.
+SP-RSK-002	A0101	Ability to recognize and mitigate cognitive biases which may affect analysis.
+SP-RSK-002	A0106	Ability to think critically.
+SP-RSK-002	A0108	Ability to understand objectives and effects.
+SP-RSK-002	A0109	Ability to utilize multiple intelligence sources across all intelligence disciplines.
+SP-RSK-002	A0117	Ability to relate strategy, business, and technology in the context of organizational dynamics.
+SP-RSK-002	A0118	Ability to understand technology, management, and leadership issues related to organization processes and problem solving.
+SP-RSK-002	A0119	Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+SP-RSK-002	A0111	Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives.
+SP-RSK-002	A0112	Ability to monitor advancements in information privacy technologies to ensure organizational adaptation and compliance.
+SP-RSK-002	A0114	Ability to develop or procure curriculum that speaks to the topic at the appropriate level for the target.
+SP-RSK-002	A0115	Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives.
+SP-RSK-002	A0116	Ability to prioritize and allocate cybersecurity resources correctly and efficiently.
+SP-RSK-002	A0119	Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+SP-RSK-002	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-RSK-002	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-DEV-001	K0016	Knowledge of computer programming principles
+SP-DEV-001	K0027	Knowledge of organization's enterprise information security architecture.
+SP-DEV-001	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-DEV-001	K0039	Knowledge of cybersecurity and privacy principles and methods that apply to software development.
+SP-DEV-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-001	K0050	Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+SP-DEV-001	K0051	Knowledge of low-level computer languages (e.g., assembly languages).
+SP-DEV-001	K0060	Knowledge of operating systems.
+SP-DEV-001	K0066	Knowledge of Privacy Impact Assessments.
+SP-DEV-001	K0068	Knowledge of programming language structures and logic.
+SP-DEV-001	K0070	Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+SP-DEV-001	K0073	Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+SP-DEV-001	K0079	Knowledge of software debugging principles.
+SP-DEV-001	K0080	Knowledge of software design tools, methods, and techniques.
+SP-DEV-001	K0081	Knowledge of software development models (e.g., Waterfall Model, Spiral Model).
+SP-DEV-001	K0082	Knowledge of software engineering.
+SP-DEV-001	K0084	Knowledge of structured analysis principles and methods.
+SP-DEV-001	K0086	Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-DEV-001	K0105	Knowledge of web services (e.g., service-oriented architecture, Simple Object Access Protocol, and web service description language).
+SP-DEV-001	K0139	Knowledge of interpreted and compiled computer languages.
+SP-DEV-001	K0140	Knowledge of secure coding techniques.
+SP-DEV-001	K0152	Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization).
+SP-DEV-001	K0153	Knowledge of software quality assurance process.
+SP-DEV-001	K0154	Knowledge of supply chain risk management standards, processes, and practices.
+SP-DEV-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-DEV-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-DEV-001	K0199	Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+SP-DEV-001	K0202	Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing).
+SP-DEV-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-DEV-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-DEV-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-DEV-001	K0263	Knowledge of information technology (IT) risk management policies, requirements, and procedures.
+SP-DEV-001	K0322	Knowledge of embedded systems.
+SP-DEV-001	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-DEV-001	K0342	Knowledge of penetration testing principles, tools, and techniques.
+SP-DEV-001	K0343	Knowledge of root cause analysis techniques.
+SP-DEV-001	K0624	Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+SP-DEV-001	S0001	Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+SP-DEV-001	S0014	Skill in conducting software debugging.
+SP-DEV-001	S0017	Skill in creating and utilizing mathematical or statistical models.
+SP-DEV-001	S0019	Skill in creating programs that validate and process multiple inputs including command line arguments, environmental variables, and input streams.
+SP-DEV-001	S0022	Skill in designing countermeasures to identified security risks.
+SP-DEV-001	S0031	Skill in developing and applying security system access controls.
+SP-DEV-001	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-DEV-001	S0060	Skill in writing code in a currently supported programming language (e.g., Java, C++).
+SP-DEV-001	S0135	Skill in secure test plan design (e. g. unit, integration, system, acceptance).
+SP-DEV-001	S0138	Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).
+SP-DEV-001	S0149	Skill in developing applications that can log and handle errors, exceptions, and application faults and logging.
+SP-DEV-001	S0174	Skill in using code analysis tools.
+SP-DEV-001	S0175	Skill in performing root cause analysis.
+SP-DEV-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-001	A0007	Ability to tailor code analysis for application-specific concerns.
+SP-DEV-001	A0021	Ability to use and understand complex mathematical concepts (e.g., discrete math).
+SP-DEV-001	A0047	Ability to develop secure software according to secure software deployment methodologies, tools, and practices.
+SP-DEV-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-DEV-002	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-DEV-002	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-DEV-002	K0004	Knowledge of cybersecurity and privacy principles.
+SP-DEV-002	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-DEV-002	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-DEV-002	K0014	Knowledge of complex data structures.
+SP-DEV-002	K0016	Knowledge of computer programming principles
+SP-DEV-002	K0027	Knowledge of organization's enterprise information security architecture.
+SP-DEV-002	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-DEV-002	K0039	Knowledge of cybersecurity and privacy principles and methods that apply to software development.
+SP-DEV-002	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-002	K0050	Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+SP-DEV-002	K0051	Knowledge of low-level computer languages (e.g., assembly languages).
+SP-DEV-002	K0060	Knowledge of operating systems.
+SP-DEV-002	K0066	Knowledge of Privacy Impact Assessments.
+SP-DEV-002	K0068	Knowledge of programming language structures and logic.
+SP-DEV-002	K0070	Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+SP-DEV-002	K0073	Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+SP-DEV-002	K0079	Knowledge of software debugging principles.
+SP-DEV-002	K0080	Knowledge of software design tools, methods, and techniques.
+SP-DEV-002	K0081	Knowledge of software development models (e.g., Waterfall Model, Spiral Model).
+SP-DEV-002	K0082	Knowledge of software engineering.
+SP-DEV-002	K0084	Knowledge of structured analysis principles and methods.
+SP-DEV-002	K0086	Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-DEV-002	K0105	Knowledge of web services (e.g., service-oriented architecture, Simple Object Access Protocol, and web service description language).
+SP-DEV-002	K0139	Knowledge of interpreted and compiled computer languages.
+SP-DEV-002	K0140	Knowledge of secure coding techniques.
+SP-DEV-002	K0152	Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization).
+SP-DEV-002	K0153	Knowledge of software quality assurance process.
+SP-DEV-002	K0154	Knowledge of supply chain risk management standards, processes, and practices.
+SP-DEV-002	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-DEV-002	K0178	Knowledge of secure software deployment methodologies, tools, and practices.
+SP-DEV-002	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-DEV-002	K0199	Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+SP-DEV-002	K0202	Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing).
+SP-DEV-002	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-DEV-002	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-DEV-002	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-DEV-002	K0263	Knowledge of information technology (IT) risk management policies, requirements, and procedures.
+SP-DEV-002	K0322	Knowledge of embedded systems.
+SP-DEV-002	K0342	Knowledge of penetration testing principles, tools, and techniques.
+SP-DEV-002	K0343	Knowledge of root cause analysis techniques.
+SP-DEV-002	K0624	Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+SP-DEV-002	S0001	Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+SP-DEV-002	S0022	Skill in designing countermeasures to identified security risks.
+SP-DEV-002	S0031	Skill in developing and applying security system access controls.
+SP-DEV-002	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-DEV-002	S0083	Skill in integrating black box security testing tools into quality assurance process of software releases.
+SP-DEV-002	S0135	Skill in secure test plan design (e. g. unit, integration, system, acceptance).
+SP-DEV-002	S0138	Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).
+SP-DEV-002	S0174	Skill in using code analysis tools.
+SP-DEV-002	S0175	Skill in performing root cause analysis.
+SP-DEV-002	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-002	A0021	Ability to use and understand complex mathematical concepts (e.g., discrete math).
+SP-DEV-002	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-DEV-002	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-ARC-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-ARC-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-ARC-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-ARC-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-ARC-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-ARC-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-ARC-001	K0024	Knowledge of database systems.
+SP-ARC-001	K0027	Knowledge of organization's enterprise information security architecture.
+SP-ARC-001	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-ARC-001	K0030	Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware).
+SP-ARC-001	K0035	Knowledge of installation, integration, and optimization of system components.
+SP-ARC-001	K0037	Knowledge of Security Assessment and Authorization process.
+SP-ARC-001	K0043	Knowledge of industry-standard and organizationally accepted analysis principles and methods.
+SP-ARC-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-001	K0052	Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+SP-ARC-001	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-ARC-001	K0060	Knowledge of operating systems.
+SP-ARC-001	K0061	Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+SP-ARC-001	K0063	Knowledge of parallel and distributed computing concepts.
+SP-ARC-001	K0074	Knowledge of key concepts in security management (e.g., Release Management, Patch Management).
+SP-ARC-001	K0075	Knowledge of security system design tools, methods, and techniques.
+SP-ARC-001	K0082	Knowledge of software engineering.
+SP-ARC-001	K0091	Knowledge of systems testing and evaluation methods.
+SP-ARC-001	K0093	Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+SP-ARC-001	K0102	Knowledge of the systems engineering process.
+SP-ARC-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-ARC-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-ARC-001	K0180	Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-ARC-001	K0198	Knowledge of organizational process improvement concepts and process maturity models (e.g., Capability Maturity Model Integration (CMMI) for Development, CMMI for Services, and CMMI for Acquisitions).
+SP-ARC-001	K0200	Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+SP-ARC-001	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-ARC-001	K0207	Knowledge of circuit analysis.
+SP-ARC-001	K0211	Knowledge of confidentiality, integrity, and availability requirements.
+SP-ARC-001	K0212	Knowledge of cybersecurity-enabled software products.
+SP-ARC-001	K0214	Knowledge of the Risk Management Framework Assessment Methodology.
+SP-ARC-001	K0227	Knowledge of various types of computer architectures.
+SP-ARC-001	K0240	Knowledge of multi-level security systems and cross domain solutions.
+SP-ARC-001	K0264	Knowledge of program protection planning (e.g. information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements).
+SP-ARC-001	K0275	Knowledge of configuration management techniques.
+SP-ARC-001	K0286	Knowledge of N-tiered typologies (e.g. including server and client operating systems).
+SP-ARC-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-ARC-001	K0291	Knowledge of the enterprise information technology (IT) architectural concepts and patterns (e.g., baseline, validated design, and target architectures.)
+SP-ARC-001	K0293	Knowledge of integrating the organization’s goals and objectives into the architecture.
+SP-ARC-001	K0299	Knowledge in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+SP-ARC-001	K0322	Knowledge of embedded systems.
+SP-ARC-001	K0323	Knowledge of system fault tolerance methodologies.
+SP-ARC-001	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+SP-ARC-001	K0326	Knowledge of demilitarized zones.
+SP-ARC-001	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-ARC-001	K0333	Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+SP-ARC-001	K0487	Knowledge of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection).
+SP-ARC-001	K0516	Knowledge of physical and logical network devices and infrastructure to include hubs, switches, routers, firewalls, etc.
+SP-ARC-001	S0005	Skill in applying and incorporating information technologies into proposed solutions.
+SP-ARC-001	S0024	Skill in designing the integration of hardware and software solutions.
+SP-ARC-001	S0027	Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+SP-ARC-001	S0050	Skill in design modeling and building use cases (e.g., unified modeling language).
+SP-ARC-001	S0060	Skill in writing code in a currently supported programming language (e.g., Java, C++).
+SP-ARC-001	S0122	Skill in the use of design methods.
+SP-ARC-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-001	S0374	Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations.
+SP-ARC-001	A0008	Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization's enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF]).
+SP-ARC-001	A0015	Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+SP-ARC-001	A0027	Ability to apply an organization's goals and objectives to develop and maintain architecture.
+SP-ARC-001	A0038	Ability to optimize systems to meet enterprise performance requirements.
+SP-ARC-001	A0051	Ability to execute technology integration processes.
+SP-ARC-001	A0060	Ability to build architectures and frameworks.
+SP-ARC-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-ARC-001	A0172	Ability to set up a physical or logical sub-networks that separates an internal local area network (LAN) from other untrusted networks.
+SP-ARC-002	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-ARC-002	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-ARC-002	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-ARC-002	K0004	Knowledge of cybersecurity and privacy principles.
+SP-ARC-002	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-ARC-002	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-ARC-002	K0007	Knowledge of authentication, authorization, and access control methods.
+SP-ARC-002	K0008	Knowledge of applicable business processes and operations of customer organizations.
+SP-ARC-002	K0009	Knowledge of application vulnerabilities.
+SP-ARC-002	K0010	Knowledge of communication methods, principles, and concepts that support the network infrastructure.
+SP-ARC-002	K0011	Knowledge of capabilities and applications of network equipment including routers, switches, bridges, servers, transmission media, and related hardware.
+SP-ARC-002	K0012	Knowledge of capabilities and requirements analysis.
+SP-ARC-002	K0013	Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+SP-ARC-002	K0015	Knowledge of computer algorithms.
+SP-ARC-002	K0018	Knowledge of encryption algorithms
+SP-ARC-002	K0019	Knowledge of cryptography and cryptographic key management concepts
+SP-ARC-002	K0024	Knowledge of database systems.
+SP-ARC-002	K0026	Knowledge of business continuity and disaster recovery continuity of operations plans.
+SP-ARC-002	K0027	Knowledge of organization's enterprise information security architecture.
+SP-ARC-002	K0030	Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware).
+SP-ARC-002	K0035	Knowledge of installation, integration, and optimization of system components.
+SP-ARC-002	K0036	Knowledge of human-computer interaction principles.
+SP-ARC-002	K0037	Knowledge of Security Assessment and Authorization process.
+SP-ARC-002	K0043	Knowledge of industry-standard and organizationally accepted analysis principles and methods.
+SP-ARC-002	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-002	K0052	Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+SP-ARC-002	K0055	Knowledge of microprocessors.
+SP-ARC-002	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-ARC-002	K0057	Knowledge of network hardware devices and functions.
+SP-ARC-002	K0059	Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+SP-ARC-002	K0060	Knowledge of operating systems.
+SP-ARC-002	K0061	Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+SP-ARC-002	K0063	Knowledge of parallel and distributed computing concepts.
+SP-ARC-002	K0071	Knowledge of remote access technology concepts.
+SP-ARC-002	K0074	Knowledge of key concepts in security management (e.g., Release Management, Patch Management).
+SP-ARC-002	K0082	Knowledge of software engineering.
+SP-ARC-002	K0091	Knowledge of systems testing and evaluation methods.
+SP-ARC-002	K0092	Knowledge of technology integration processes.
+SP-ARC-002	K0093	Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+SP-ARC-002	K0102	Knowledge of the systems engineering process.
+SP-ARC-002	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-ARC-002	K0180	Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-ARC-002	K0198	Knowledge of organizational process improvement concepts and process maturity models (e.g., Capability Maturity Model Integration (CMMI) for Development, CMMI for Services, and CMMI for Acquisitions).
+SP-ARC-002	K0200	Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+SP-ARC-002	K0202	Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing).
+SP-ARC-002	K0211	Knowledge of confidentiality, integrity, and availability requirements.
+SP-ARC-002	K0212	Knowledge of cybersecurity-enabled software products.
+SP-ARC-002	K0214	Knowledge of the Risk Management Framework Assessment Methodology.
+SP-ARC-002	K0227	Knowledge of various types of computer architectures.
+SP-ARC-002	K0240	Knowledge of multi-level security systems and cross domain solutions.
+SP-ARC-002	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-ARC-002	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-ARC-002	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-ARC-002	K0264	Knowledge of program protection planning (e.g. information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements).
+SP-ARC-002	K0275	Knowledge of configuration management techniques.
+SP-ARC-002	K0277	Knowledge of current and emerging data encryption (e.g., Column and Tablespace Encryption, file and disk encryption) security features in databases (e.g. built-in cryptographic key management features).
+SP-ARC-002	K0286	Knowledge of N-tiered typologies (e.g. including server and client operating systems).
+SP-ARC-002	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-ARC-002	K0291	Knowledge of the enterprise information technology (IT) architectural concepts and patterns (e.g., baseline, validated design, and target architectures.)
+SP-ARC-002	K0293	Knowledge of integrating the organization’s goals and objectives into the architecture.
+SP-ARC-002	K0320	Knowledge of organization's evaluation and validation criteria.
+SP-ARC-002	K0322	Knowledge of embedded systems.
+SP-ARC-002	K0323	Knowledge of system fault tolerance methodologies.
+SP-ARC-002	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+SP-ARC-002	K0326	Knowledge of demilitarized zones.
+SP-ARC-002	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-ARC-002	K0333	Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+SP-ARC-002	K0336	Knowledge of access authentication methods.
+SP-ARC-002	K0374	WITHDRAWN: Knowledge of basic structure, architecture, and design of modern digital and telephony networks. (See K0599)
+SP-ARC-002	K0565	Knowledge of the common networking and routing protocols (e.g. TCP/IP), services (e.g., web, mail, DNS), and how they interact to provide network communications.
+SP-ARC-002	S0005	Skill in applying and incorporating information technologies into proposed solutions.
+SP-ARC-002	S0022	Skill in designing countermeasures to identified security risks.
+SP-ARC-002	S0024	Skill in designing the integration of hardware and software solutions.
+SP-ARC-002	S0027	Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+SP-ARC-002	S0050	Skill in design modeling and building use cases (e.g., unified modeling language).
+SP-ARC-002	S0059	Skill in using Virtual Private Network (VPN) devices and encryption.
+SP-ARC-002	S0061	Skill in writing test plans.
+SP-ARC-002	S0076	Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, antivirus software, anti-spyware).
+SP-ARC-002	S0116	Skill in designing multi-level security/cross domain solutions.
+SP-ARC-002	S0122	Skill in the use of design methods.
+SP-ARC-002	S0138	Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).
+SP-ARC-002	S0139	Skill in applying security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-ARC-002	S0152	Skill in translating operational requirements into protection needs (i.e., security controls).
+SP-ARC-002	S0168	Skill in setting up physical or logical sub-networks that separate an internal local area network (LAN) from other untrusted networks.
+SP-ARC-002	S0170	Skill in configuring and utilizing computer protection components (e.g., hardware firewalls, servers, routers, as appropriate).
+SP-ARC-002	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-002	S0374	Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations.
+SP-ARC-002	A0008	Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization's enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF]).
+SP-ARC-002	A0014	Ability to communicate effectively when writing.
+SP-ARC-002	A0015	Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+SP-ARC-002	A0027	Ability to apply an organization's goals and objectives to develop and maintain architecture.
+SP-ARC-002	A0038	Ability to optimize systems to meet enterprise performance requirements.
+SP-ARC-002	A0048	Ability to apply network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-ARC-002	A0049	Ability to apply secure system design tools, methods and techniques.
+SP-ARC-002	A0050	Ability to apply system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-ARC-002	A0061	Ability to design architectures and frameworks.
+SP-ARC-002	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-ARC-002	A0148	Ability to serve as the primary liaison between the enterprise architect and the systems security engineer and coordinates with system owners, common control providers, and system security officers on the allocation of security controls as system-specific, hybrid, or common controls.
+SP-ARC-002	A0149	Ability, in close coordination with system security officers, advise authorizing officials, chief information officers, senior information security officers, and the senior accountable official for risk management/risk executive (function), on a range of security-related issues (e.g. establishing system boundaries; assessing the severity of weaknesses and deficiencies in the system; plans of action and milestones; risk mitigation approaches; security alerts; and potential adverse effects of identified vulnerabilities).
+SP-ARC-002	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-ARC-002	A0172	Ability to set up a physical or logical sub-networks that separates an internal local area network (LAN) from other untrusted networks.
+SP-TRD-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-TRD-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-TRD-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-TRD-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-TRD-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-TRD-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-TRD-001	K0009	Knowledge of application vulnerabilities.
+SP-TRD-001	K0019	Knowledge of cryptography and cryptographic key management concepts
+SP-TRD-001	K0059	Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+SP-TRD-001	K0090	Knowledge of system life cycle management principles, including software security and usability.
+SP-TRD-001	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-TRD-001	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-TRD-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-TRD-001	K0171	Knowledge of hardware reverse engineering techniques.
+SP-TRD-001	K0172	Knowledge of middleware (e.g., enterprise service bus and message queuing).
+SP-TRD-001	K0174	Knowledge of networking protocols.
+SP-TRD-001	K0175	Knowledge of software reverse engineering techniques.
+SP-TRD-001	K0176	Knowledge of Extensible Markup Language (XML) schemas.
+SP-TRD-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-TRD-001	K0202	Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing).
+SP-TRD-001	K0209	Knowledge of covert communication techniques.
+SP-TRD-001	K0267	Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures.
+SP-TRD-001	K0268	Knowledge of forensic footprint identification.
+SP-TRD-001	K0269	Knowledge of mobile communications architecture.
+SP-TRD-001	K0271	Knowledge of operating system structures and internals (e.g., process management, directory structure, installed applications).
+SP-TRD-001	K0272	Knowledge of network analysis tools used to identify software communications vulnerabilities.
+SP-TRD-001	K0288	Knowledge of industry standard security models.
+SP-TRD-001	K0296	Knowledge of capabilities, applications, and potential vulnerabilities of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware.
+SP-TRD-001	K0310	Knowledge of hacking methodologies.
+SP-TRD-001	K0314	Knowledge of industry technologies’ potential cybersecurity vulnerabilities.
+SP-TRD-001	K0321	Knowledge of engineering concepts as applied to computer architecture and associated computer hardware/software.
+SP-TRD-001	K0342	Knowledge of penetration testing principles, tools, and techniques.
+SP-TRD-001	K0499	Knowledge of operations security.
+SP-TRD-001	S0005	Skill in applying and incorporating information technologies into proposed solutions.
+SP-TRD-001	S0017	Skill in creating and utilizing mathematical or statistical models.
+SP-TRD-001	S0072	Skill in using scientific rules and methods to solve problems.
+SP-TRD-001	S0140	Skill in applying the systems engineering process.
+SP-TRD-001	S0148	Skill in designing the integration of technology processes and solutions, including legacy systems and modern programming languages.
+SP-TRD-001	S0172	Skill in applying secure coding techniques.
+SP-TRD-001	A0001	Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.
+SP-TRD-001	A0018	Ability to prepare and present briefings.
+SP-TRD-001	A0019	Ability to produce technical documentation.
+SP-TRD-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-SRP-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-SRP-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-SRP-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-SRP-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-SRP-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-SRP-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-SRP-001	K0008	Knowledge of applicable business processes and operations of customer organizations.
+SP-SRP-001	K0012	Knowledge of capabilities and requirements analysis.
+SP-SRP-001	K0018	Knowledge of encryption algorithms
+SP-SRP-001	K0019	Knowledge of cryptography and cryptographic key management concepts
+SP-SRP-001	K0032	Knowledge of resiliency and redundancy.
+SP-SRP-001	K0035	Knowledge of installation, integration, and optimization of system components.
+SP-SRP-001	K0038	Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data.
+SP-SRP-001	K0043	Knowledge of industry-standard and organizationally accepted analysis principles and methods.
+SP-SRP-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SRP-001	K0045	Knowledge of information security systems engineering principles (NIST SP 800-160).
+SP-SRP-001	K0047	Knowledge of information technology (IT) architectural concepts and frameworks.
+SP-SRP-001	K0055	Knowledge of microprocessors.
+SP-SRP-001	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-SRP-001	K0059	Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+SP-SRP-001	K0060	Knowledge of operating systems.
+SP-SRP-001	K0061	Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+SP-SRP-001	K0063	Knowledge of parallel and distributed computing concepts.
+SP-SRP-001	K0066	Knowledge of Privacy Impact Assessments.
+SP-SRP-001	K0067	Knowledge of process engineering concepts.
+SP-SRP-001	K0073	Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+SP-SRP-001	K0074	Knowledge of key concepts in security management (e.g., Release Management, Patch Management).
+SP-SRP-001	K0086	Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-SRP-001	K0087	Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design.
+SP-SRP-001	K0090	Knowledge of system life cycle management principles, including software security and usability.
+SP-SRP-001	K0091	Knowledge of systems testing and evaluation methods.
+SP-SRP-001	K0093	Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+SP-SRP-001	K0101	Knowledge of the organization’s enterprise information technology (IT) goals and objectives.
+SP-SRP-001	K0102	Knowledge of the systems engineering process.
+SP-SRP-001	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-SRP-001	K0163	Knowledge of critical information technology (IT) procurement requirements.
+SP-SRP-001	K0164	Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes).
+SP-SRP-001	K0168	Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures.
+SP-SRP-001	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-SRP-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-SRP-001	K0180	Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-SRP-001	K0200	Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+SP-SRP-001	K0267	Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures.
+SP-SRP-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-SRP-001	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+SP-SRP-001	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-SRP-001	K0333	Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+SP-SRP-001	K0622	Knowledge of controls related to the use, processing, storage, and transmission of data.
+SP-SRP-001	S0005	Skill in applying and incorporating information technologies into proposed solutions.
+SP-SRP-001	S0006	Skill in applying confidentiality, integrity, and availability principles.
+SP-SRP-001	S0008	Skill in applying organization-specific systems analysis principles and techniques.
+SP-SRP-001	S0010	Skill in conducting capabilities and requirements analysis.
+SP-SRP-001	S0050	Skill in design modeling and building use cases (e.g., unified modeling language).
+SP-SRP-001	S0134	Skill in conducting reviews of systems.
+SP-SRP-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SRP-001	A0064	Ability to interpret and translate customer requirements into operational capabilities.
+SP-SRP-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SRP-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-TST-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-TST-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-TST-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-TST-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-TST-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-TST-001	K0027	Knowledge of organization's enterprise information security architecture.
+SP-TST-001	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-TST-001	K0037	Knowledge of Security Assessment and Authorization process.
+SP-TST-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-TST-001	K0057	Knowledge of network hardware devices and functions.
+SP-TST-001	K0088	Knowledge of systems administration concepts.
+SP-TST-001	K0091	Knowledge of systems testing and evaluation methods.
+SP-TST-001	K0102	Knowledge of the systems engineering process.
+SP-TST-001	K0139	Knowledge of interpreted and compiled computer languages.
+SP-TST-001	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-TST-001	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-TST-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-TST-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-TST-001	K0199	Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+SP-TST-001	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-TST-001	K0212	Knowledge of cybersecurity-enabled software products.
+SP-TST-001	K0250	Knowledge of Test & Evaluation processes for learners.
+SP-TST-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-TST-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-TST-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-TST-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-TST-001	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-TST-001	S0015	Skill in conducting test events.
+SP-TST-001	S0021	Skill in designing a data analysis structure (i.e., the types of data a test must generate and how to analyze that data).
+SP-TST-001	S0026	Skill in determining an appropriate level of test rigor for a given system.
+SP-TST-001	S0030	Skill in developing operations-based testing scenarios.
+SP-TST-001	S0048	Skill in systems integration testing.
+SP-TST-001	S0060	Skill in writing code in a currently supported programming language (e.g., Java, C++).
+SP-TST-001	S0061	Skill in writing test plans.
+SP-TST-001	S0082	Skill in evaluating test plans for applicability and completeness.
+SP-TST-001	S0104	Skill in conducting Test Readiness Reviews.
+SP-TST-001	S0107	Skill in designing and documenting overall program Test & Evaluation strategies.
+SP-TST-001	S0110	Skill in identifying Test & Evaluation infrastructure (people, ranges, tools, instrumentation) requirements.
+SP-TST-001	S0112	Skill in managing test assets, test resources, and test personnel to ensure effective completion of test events.
+SP-TST-001	S0115	Skill in preparing Test & Evaluation reports.
+SP-TST-001	S0117	Skill in providing Test & Evaluation resource estimate.
+SP-TST-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-TST-001	A0026	Ability to analyze test data.
+SP-TST-001	A0030	Ability to collect, verify, and validate test data.
+SP-TST-001	A0040	Ability to translate data and test results into evaluative conclusions.
+SP-TST-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-SYS-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-SYS-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-SYS-001	K0004	Knowledge of cybersecurity and privacy principles.
+SP-SYS-001	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-SYS-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-SYS-001	K0015	Knowledge of computer algorithms.
+SP-SYS-001	K0018	Knowledge of encryption algorithms
+SP-SYS-001	K0024	Knowledge of database systems.
+SP-SYS-001	K0027	Knowledge of organization's enterprise information security architecture.
+SP-SYS-001	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-SYS-001	K0030	Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware).
+SP-SYS-001	K0032	Knowledge of resiliency and redundancy.
+SP-SYS-001	K0035	Knowledge of installation, integration, and optimization of system components.
+SP-SYS-001	K0036	Knowledge of human-computer interaction principles.
+SP-SYS-001	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-001	K0045	Knowledge of information security systems engineering principles (NIST SP 800-160).
+SP-SYS-001	K0049	Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption).
+SP-SYS-001	K0050	Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+SP-SYS-001	K0052	Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+SP-SYS-001	K0055	Knowledge of microprocessors.
+SP-SYS-001	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-SYS-001	K0060	Knowledge of operating systems.
+SP-SYS-001	K0061	Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+SP-SYS-001	K0063	Knowledge of parallel and distributed computing concepts.
+SP-SYS-001	K0065	Knowledge of policy-based and risk adaptive access controls.
+SP-SYS-001	K0066	Knowledge of Privacy Impact Assessments.
+SP-SYS-001	K0067	Knowledge of process engineering concepts.
+SP-SYS-001	K0073	Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+SP-SYS-001	K0081	Knowledge of software development models (e.g., Waterfall Model, Spiral Model).
+SP-SYS-001	K0082	Knowledge of software engineering.
+SP-SYS-001	K0084	Knowledge of structured analysis principles and methods.
+SP-SYS-001	K0086	Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-SYS-001	K0087	Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design.
+SP-SYS-001	K0090	Knowledge of system life cycle management principles, including software security and usability.
+SP-SYS-001	K0091	Knowledge of systems testing and evaluation methods.
+SP-SYS-001	K0093	Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+SP-SYS-001	K0102	Knowledge of the systems engineering process.
+SP-SYS-001	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-SYS-001	K0139	Knowledge of interpreted and compiled computer languages.
+SP-SYS-001	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-SYS-001	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-SYS-001	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-SYS-001	K0180	Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-SYS-001	K0200	Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+SP-SYS-001	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-SYS-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-SYS-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-SYS-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-SYS-001	K0276	Knowledge of security management.
+SP-SYS-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-SYS-001	K0297	Knowledge of countermeasure design for identified security risks.
+SP-SYS-001	K0308	Knowledge of cryptology.
+SP-SYS-001	K0322	Knowledge of embedded systems.
+SP-SYS-001	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+SP-SYS-001	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-SYS-001	K0333	Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+SP-SYS-001	K0336	Knowledge of access authentication methods.
+SP-SYS-001	S0001	Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+SP-SYS-001	S0022	Skill in designing countermeasures to identified security risks.
+SP-SYS-001	S0023	Skill in designing security controls based on cybersecurity principles and tenets.
+SP-SYS-001	S0024	Skill in designing the integration of hardware and software solutions.
+SP-SYS-001	S0031	Skill in developing and applying security system access controls.
+SP-SYS-001	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-SYS-001	S0036	Skill in evaluating the adequacy of security designs.
+SP-SYS-001	S0085	Skill in conducting audits or reviews of technical systems.
+SP-SYS-001	S0145	Skill in integrating and applying policies that meet system security objectives.
+SP-SYS-001	S0160	Skill in the use of design modeling (e.g., unified modeling language).
+SP-SYS-001	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-001	A0001	Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.
+SP-SYS-001	A0008	Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization's enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF]).
+SP-SYS-001	A0012	Ability to ask clarifying questions.
+SP-SYS-001	A0013	Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means.
+SP-SYS-001	A0015	Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+SP-SYS-001	A0019	Ability to produce technical documentation.
+SP-SYS-001	A0026	Ability to analyze test data.
+SP-SYS-001	A0040	Ability to translate data and test results into evaluative conclusions.
+SP-SYS-001	A0048	Ability to apply network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-SYS-001	A0049	Ability to apply secure system design tools, methods and techniques.
+SP-SYS-001	A0050	Ability to apply system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-SYS-001	A0056	Ability to ensure security practices are followed throughout the acquisition process.
+SP-SYS-001	A0061	Ability to design architectures and frameworks.
+SP-SYS-001	A0074	Ability to collaborate effectively with others.
+SP-SYS-001	A0089	Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts—both internal and external to the organization—to leverage analytical and technical expertise.
+SP-SYS-001	A0098	Ability to participate as a member of planning teams, coordination groups, and task forces as necessary.
+SP-SYS-001	A0108	Ability to understand objectives and effects.
+SP-SYS-001	A0119	Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+SP-SYS-001	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-001	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-SYS-002	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+SP-SYS-002	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+SP-SYS-002	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+SP-SYS-002	K0004	Knowledge of cybersecurity and privacy principles.
+SP-SYS-002	K0005	Knowledge of cyber threats and vulnerabilities.
+SP-SYS-002	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+SP-SYS-002	K0015	Knowledge of computer algorithms.
+SP-SYS-002	K0018	Knowledge of encryption algorithms
+SP-SYS-002	K0024	Knowledge of database systems.
+SP-SYS-002	K0027	Knowledge of organization's enterprise information security architecture.
+SP-SYS-002	K0028	Knowledge of organization's evaluation and validation requirements.
+SP-SYS-002	K0030	Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware).
+SP-SYS-002	K0032	Knowledge of resiliency and redundancy.
+SP-SYS-002	K0035	Knowledge of installation, integration, and optimization of system components.
+SP-SYS-002	K0036	Knowledge of human-computer interaction principles.
+SP-SYS-002	K0044	Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-002	K0045	Knowledge of information security systems engineering principles (NIST SP 800-160).
+SP-SYS-002	K0049	Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption).
+SP-SYS-002	K0050	Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+SP-SYS-002	K0052	Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+SP-SYS-002	K0055	Knowledge of microprocessors.
+SP-SYS-002	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+SP-SYS-002	K0060	Knowledge of operating systems.
+SP-SYS-002	K0061	Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+SP-SYS-002	K0063	Knowledge of parallel and distributed computing concepts.
+SP-SYS-002	K0065	Knowledge of policy-based and risk adaptive access controls.
+SP-SYS-002	K0066	Knowledge of Privacy Impact Assessments.
+SP-SYS-002	K0067	Knowledge of process engineering concepts.
+SP-SYS-002	K0073	Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+SP-SYS-002	K0081	Knowledge of software development models (e.g., Waterfall Model, Spiral Model).
+SP-SYS-002	K0082	Knowledge of software engineering.
+SP-SYS-002	K0084	Knowledge of structured analysis principles and methods.
+SP-SYS-002	K0086	Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+SP-SYS-002	K0087	Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design.
+SP-SYS-002	K0090	Knowledge of system life cycle management principles, including software security and usability.
+SP-SYS-002	K0091	Knowledge of systems testing and evaluation methods.
+SP-SYS-002	K0093	Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+SP-SYS-002	K0102	Knowledge of the systems engineering process.
+SP-SYS-002	K0126	Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+SP-SYS-002	K0139	Knowledge of interpreted and compiled computer languages.
+SP-SYS-002	K0169	Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+SP-SYS-002	K0170	Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+SP-SYS-002	K0179	Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+SP-SYS-002	K0180	Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-SYS-002	K0200	Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+SP-SYS-002	K0203	Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+SP-SYS-002	K0207	Knowledge of circuit analysis.
+SP-SYS-002	K0212	Knowledge of cybersecurity-enabled software products.
+SP-SYS-002	K0227	Knowledge of various types of computer architectures.
+SP-SYS-002	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+SP-SYS-002	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+SP-SYS-002	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+SP-SYS-002	K0276	Knowledge of security management.
+SP-SYS-002	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+SP-SYS-002	K0297	Knowledge of countermeasure design for identified security risks.
+SP-SYS-002	K0308	Knowledge of cryptology.
+SP-SYS-002	K0322	Knowledge of embedded systems.
+SP-SYS-002	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+SP-SYS-002	K0332	Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+SP-SYS-002	K0333	Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+SP-SYS-002	K0336	Knowledge of access authentication methods.
+SP-SYS-002	S0018	Skill in creating policies that reflect system security objectives.
+SP-SYS-002	S0022	Skill in designing countermeasures to identified security risks.
+SP-SYS-002	S0023	Skill in designing security controls based on cybersecurity principles and tenets.
+SP-SYS-002	S0024	Skill in designing the integration of hardware and software solutions.
+SP-SYS-002	S0025	Skill in detecting host and network based intrusions via intrusion detection technologies (e.g., Snort).
+SP-SYS-002	S0031	Skill in developing and applying security system access controls.
+SP-SYS-002	S0034	Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+SP-SYS-002	S0036	Skill in evaluating the adequacy of security designs.
+SP-SYS-002	S0060	Skill in writing code in a currently supported programming language (e.g., Java, C++).
+SP-SYS-002	S0085	Skill in conducting audits or reviews of technical systems.
+SP-SYS-002	S0097	Skill in applying security controls.
+SP-SYS-002	S0136	Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+SP-SYS-002	S0145	Skill in integrating and applying policies that meet system security objectives.
+SP-SYS-002	S0146	Skill in creating policies that enable systems to meet performance objectives (e.g. traffic routing, SLA's, CPU specifications).
+SP-SYS-002	S0160	Skill in the use of design modeling (e.g., unified modeling language).
+SP-SYS-002	S0367	Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-002	A0123	Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+SP-SYS-002	A0162	Ability to ensure information system security, acquisition personnel, legal counsel, and other appropriate advisors and stakeholders are participating in decision making from system concept definition/review and are involved in, or approve of, each milestone decision through the entire system life cycle for systems.
+SP-SYS-002	A0170	Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+OM-DTA-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+OM-DTA-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+OM-DTA-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+OM-DTA-001	K0004	Knowledge of cybersecurity and privacy principles.
+OM-DTA-001	K0005	Knowledge of cyber threats and vulnerabilities.
+OM-DTA-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+OM-DTA-001	K0020	Knowledge of data administration and data standardization policies.
+OM-DTA-001	K0021	Knowledge of data backup and recovery.
+OM-DTA-001	K0022	Knowledge of data mining and data warehousing principles.
+OM-DTA-001	K0023	Knowledge of database management systems, query languages, table relationships, and views.
+OM-DTA-001	K0025	Knowledge of digital rights management.
+OM-DTA-001	K0031	Knowledge of enterprise messaging systems and associated software.
+OM-DTA-001	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+OM-DTA-001	K0060	Knowledge of operating systems.
+OM-DTA-001	K0065	Knowledge of policy-based and risk adaptive access controls.
+OM-DTA-001	K0069	Knowledge of query languages such as SQL (structured query language).
+OM-DTA-001	K0083	Knowledge of sources, characteristics, and uses of the organization’s data assets.
+OM-DTA-001	K0097	Knowledge of the characteristics of physical and virtual data storage media.
+OM-DTA-001	K0197	Knowledge of database access application programming interfaces (e.g., Java Database Connectivity [JDBC]).
+OM-DTA-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+OM-DTA-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+OM-DTA-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+OM-DTA-001	K0277	Knowledge of current and emerging data encryption (e.g., Column and Tablespace Encryption, file and disk encryption) security features in databases (e.g. built-in cryptographic key management features).
+OM-DTA-001	K0278	Knowledge of current and emerging data remediation security features in databases.
+OM-DTA-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+OM-DTA-001	K0420	Knowledge of database theory.
+OM-DTA-001	S0002	Skill in allocating storage capacity in the design of data management systems.
+OM-DTA-001	S0013	Skill in conducting queries and developing algorithms to analyze data structures.
+OM-DTA-001	S0037	Skill in generating queries and reports.
+OM-DTA-001	S0042	Skill in maintaining databases. (i.e., backup, restore, delete data, transaction log files, etc.).
+OM-DTA-001	S0045	Skill in optimizing database performance.
+OM-DTA-001	A0176	Ability to maintain databases. (i.e., backup, restore, delete data, transaction log files, etc.).
+OM-DTA-002	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+OM-DTA-002	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+OM-DTA-002	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+OM-DTA-002	K0004	Knowledge of cybersecurity and privacy principles.
+OM-DTA-002	K0005	Knowledge of cyber threats and vulnerabilities.
+OM-DTA-002	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+OM-DTA-002	K0015	Knowledge of computer algorithms.
+OM-DTA-002	K0016	Knowledge of computer programming principles
+OM-DTA-002	K0020	Knowledge of data administration and data standardization policies.
+OM-DTA-002	K0022	Knowledge of data mining and data warehousing principles.
+OM-DTA-002	K0023	Knowledge of database management systems, query languages, table relationships, and views.
+OM-DTA-002	K0025	Knowledge of digital rights management.
+OM-DTA-002	K0031	Knowledge of enterprise messaging systems and associated software.
+OM-DTA-002	K0051	Knowledge of low-level computer languages (e.g., assembly languages).
+OM-DTA-002	K0052	Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+OM-DTA-002	K0056	Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+OM-DTA-002	K0060	Knowledge of operating systems.
+OM-DTA-002	K0065	Knowledge of policy-based and risk adaptive access controls.
+OM-DTA-002	K0068	Knowledge of programming language structures and logic.
+OM-DTA-002	K0069	Knowledge of query languages such as SQL (structured query language).
+OM-DTA-002	K0083	Knowledge of sources, characteristics, and uses of the organization’s data assets.
+OM-DTA-002	K0095	Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines).
+OM-DTA-002	K0129	Knowledge of command-line tools (e.g., mkdir, mv, ls, passwd, grep).
+OM-DTA-002	K0139	Knowledge of interpreted and compiled computer languages.
+OM-DTA-002	K0140	Knowledge of secure coding techniques.
+OM-DTA-002	K0193	Knowledge of advanced data remediation security features in databases.
+OM-DTA-002	K0197	Knowledge of database access application programming interfaces (e.g., Java Database Connectivity [JDBC]).
+OM-DTA-002	K0229	Knowledge of applications that can log errors, exceptions, and application faults and logging.
+OM-DTA-002	K0236	Knowledge of how to utilize Hadoop, Java, Python, SQL, Hive, and Pig to explore data.
+OM-DTA-002	K0238	Knowledge of machine learning theory and principles.
+OM-DTA-002	K0325	Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+OM-DTA-002	K0420	Knowledge of database theory.
+OM-DTA-002	S0013	Skill in conducting queries and developing algorithms to analyze data structures.
+OM-DTA-002	S0017	Skill in creating and utilizing mathematical or statistical models.
+OM-DTA-002	S0202	Skill in data mining techniques (e.g., searching file systems) and analysis.
+OM-DTA-002	S0028	Skill in developing data dictionaries.
+OM-DTA-002	S0029	Skill in developing data models.
+OM-DTA-002	S0037	Skill in generating queries and reports.
+OM-DTA-002	S0060	Skill in writing code in a currently supported programming language (e.g., Java, C++).
+OM-DTA-002	S0088	Skill in using binary analysis tools (e.g., Hexedit, command code xxd, hexdump).
+OM-DTA-002	S0089	Skill in one-way hash functions (e.g., Secure Hash Algorithm [SHA], Message Digest Algorithm [MD5]).
+OM-DTA-002	S0094	Skill in reading Hexadecimal data.
+OM-DTA-002	S0095	Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode).
+OM-DTA-002	S0103	Skill in assessing the predictive power and subsequent generalizability of a model.
+OM-DTA-002	S0106	Skill in data pre-processing (e.g., imputation, dimensionality reduction, normalization, transformation, extraction, filtering, smoothing).
+OM-DTA-002	S0109	Skill in identifying hidden patterns or relationships.
+OM-DTA-002	S0113	Skill in performing format conversions to create a standard representation of the data.
+OM-DTA-002	S0114	Skill in performing sensitivity analysis.
+OM-DTA-002	S0118	Skill in developing machine understandable semantic ontologies.
+OM-DTA-002	S0119	Skill in Regression Analysis (e.g., Hierarchical Stepwise, Generalized Linear Model, Ordinary Least Squares, Tree-Based Methods, Logistic).
+OM-DTA-002	S0123	Skill in transformation analytics (e.g., aggregation, enrichment, processing).
+OM-DTA-002	S0125	Skill in using basic descriptive statistics and techniques (e.g., normality, model distribution, scatter plots).
+OM-DTA-002	S0126	Skill in using data analysis tools (e.g., Excel, STATA SAS, SPSS).
+OM-DTA-002	S0127	Skill in using data mapping tools.
+OM-DTA-002	S0129	Skill in using outlier identification and removal techniques.
+OM-DTA-002	S0130	Skill in writing scripts using R, Python, PIG, HIVE, SQL, etc.
+OM-DTA-002	S0160	Skill in the use of design modeling (e.g., unified modeling language).
+OM-DTA-002	S0369	Skill to identify sources, characteristics, and uses of the organization’s data assets.
+OM-DTA-002	A0029	Ability to build complex data structures and high-level programming languages.
+OM-DTA-002	A0035	Ability to dissect a problem and examine the interrelationships between data that may appear unrelated.
+OM-DTA-002	A0036	Ability to identify basic common coding flaws at a high level.
+OM-DTA-002	A0041	Ability to use data visualization tools (e.g., Flare, HighCharts, AmCharts, D3.js, Processing, Google Visualization API, Tableau, Raphael.js).
+OM-DTA-002	A0066	Ability to accurately and completely source all data used in intelligence, assessment and/or planning products.
+OM-KMG-001	K0001	Knowledge of computer networking concepts and protocols, and network security methodologies.
+OM-KMG-001	K0002	Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+OM-KMG-001	K0003	Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy.
+OM-KMG-001	K0004	Knowledge of cybersecurity and privacy principles.
+OM-KMG-001	K0005	Knowledge of cyber threats and vulnerabilities.
+OM-KMG-001	K0006	Knowledge of specific operational impacts of cybersecurity lapses.
+OM-KMG-001	K0013	Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+OM-KMG-001	K0094	Knowledge of the capabilities and functionality associated with content creation technologies (e.g., wikis, social networking, content management systems, blogs).
+OM-KMG-001	K0095	Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines).
+OM-KMG-001	K0096	Knowledge of the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint).
+OM-KMG-001	K0146	Knowledge of the organization's core business/mission processes.
+OM-KMG-001	K0194	Knowledge of Cloud-based knowledge management technologies and concepts related to security, governance, procurement, and administration.
+OM-KMG-001	K0195	Knowledge of data classification standards and methodologies based on sensitivity and other risk factors.
+OM-KMG-001	K0228	Knowledge of taxonomy and semantic ontology theory.
+OM-KMG-001	K0260	Knowledge of Personally Identifiable Information (PII) data security standards.
+OM-KMG-001	K0261	Knowledge of Payment Card Industry (PCI) data security standards.
+OM-KMG-001	K0262	Knowledge of Personal Health Information (PHI) data security standards.
+OM-KMG-001	K0283	Knowledge of use cases related to collaboration and content synchronization across platforms (e.g., Mobile, PC, Cloud).
+OM-KMG-001	K0287	Knowledge of an organization's information classification program and procedures for information compromise.
+OM-KMG-001	K0315	Knowledge of the principal methods, procedures, and techniques of gathering information and producing, reporting, and sharing information.
+OM-KMG-001	K0338	Knowledge of data mining techniques.
+OM-KMG-001	K0420	Knowledge of database theory.
+OM-KMG-001	S0011	Skill in conducting information searches.
+OM-KMG-001	S0012	Skill in conducting knowledge mapping (e.g., map of knowledge repositories).
+OM-KMG-001	S0049	Skill in the measuring and reporting of intellectual capital.
+OM-KMG-001	S0055	Skill in using knowledge management technologies.
+OM-KMG-001	A0002	Ability to match the appropriate knowledge repository technology for a given application or environment.
